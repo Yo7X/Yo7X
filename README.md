@@ -1,9 +1,5 @@
 👋 Hi, I’m @Yo7X
-I build stuff for the web although I also enjoy building more complex stuff soemtimes 
-
-*Projects*
-- Better c.ai - 30% done
-- Identity V tools - 100% done
+I build stuff for the web although sometimes I make more complex things.
 
 <!---
 Yo7X/Yo7X is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
