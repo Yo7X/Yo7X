@@ -1,5 +1,7 @@
 👋 Hi, I’m @Yo7X
-I build stuff for the web although sometimes I make more complex things.
+I build stuff for the web sometimes.
+
+This  profile is full of all the things I put more than a couple random hours into late at night.
 
 <!---
 Yo7X/Yo7X is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
